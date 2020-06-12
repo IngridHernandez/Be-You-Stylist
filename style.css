@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+div {
+    background-color: #FEC1C4;
+    height:75px;
+    margin-top: 0;
+}
+.section {
+    height: 300px;
+    margin-top: 50px;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    word-spacing: 30px;
+    margin-top: 5px;
+}
+li {
+    display: inline;
+    font-size: 20px;
+    text-align: center;
+}
+li nav {
+    color:  #666666
+    font-family: 'Raleway', sans-serif; 
+    
+}
+a {
+    color:  #666666;
+    font-family: 'Raleway', sans-serif;
+   
+    
+}
+a:link {
+    text-decoration: none;
+
+}
+a:visited {
+    text-align: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {
+    text-decoration: underline;
+}
